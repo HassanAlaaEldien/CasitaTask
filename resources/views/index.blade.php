@@ -15,7 +15,7 @@
                 <img src="http://maps.google.com/mapfiles/ms/icons/red-dot.png" alt="">
                 <img src="http://maps.google.com/mapfiles/ms/icons/green-dot.png" alt="">
                 <img src="http://maps.google.com/mapfiles/ms/icons/orange-dot.png" alt="">
-                <a href="/">List All Messages ( Click on the marker to view message )</a>.
+                <a href="/">List All Messages</a> ( Click on the marker to view message ).
             </span>
         </li>
     </ul>
